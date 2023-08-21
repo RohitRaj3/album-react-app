@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/album-collection-react-app/static/css/main.9f3e9886.css",
-    "main.js": "/album-collection-react-app/static/js/main.5ebf0301.js",
-    "static/js/787.f4b2d72a.chunk.js": "/album-collection-react-app/static/js/787.f4b2d72a.chunk.js",
-    "index.html": "/album-collection-react-app/index.html",
-    "main.9f3e9886.css.map": "/album-collection-react-app/static/css/main.9f3e9886.css.map",
-    "main.5ebf0301.js.map": "/album-collection-react-app/static/js/main.5ebf0301.js.map",
-    "787.f4b2d72a.chunk.js.map": "/album-collection-react-app/static/js/787.f4b2d72a.chunk.js.map"
+    "main.css": "/album-react-app/static/css/main.9f3e9886.css",
+    "main.js": "/album-react-app/static/js/main.83918647.js",
+    "static/js/787.f4b2d72a.chunk.js": "/album-react-app/static/js/787.f4b2d72a.chunk.js",
+    "index.html": "/album-react-app/index.html",
+    "main.9f3e9886.css.map": "/album-react-app/static/css/main.9f3e9886.css.map",
+    "main.83918647.js.map": "/album-react-app/static/js/main.83918647.js.map",
+    "787.f4b2d72a.chunk.js.map": "/album-react-app/static/js/787.f4b2d72a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f3e9886.css",
-    "static/js/main.5ebf0301.js"
+    "static/js/main.83918647.js"
   ]
 }
